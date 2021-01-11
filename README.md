@@ -42,7 +42,7 @@ Steps:
  - Result: DefaultAssoc.xml is imported.
 
 Help:
- - Run:
+ - Run:p
    python python exwalker.py --help
    python python exinout.py --help
    python python exgen.py --help
